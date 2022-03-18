@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <head>
+<title>My First CSS Try</title>
+
+<style>
+
+H1{
+
+color: blue;
+
+background-color: yellow;
+
+border: 1px solid black;
+
+}
+P{
+color: red;
+
+<style>
+
+<head>
+
+<body>
+
+<h1>Hello World!</hl>
+
+<p>This is my first CSS example <p>
+
+</body>
+</html>
